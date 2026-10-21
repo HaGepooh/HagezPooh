@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm HaGe
-**A passionate Networing || DevOps Coding || HaGe Pooh from India**
+**A passionate Networing || DevOps Coding and obsessed with pixel perfection and building meaningfully things. || HaGe Pooh from India**
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/hagezpooh.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/h4rpoo?dlrf=MWJ4azNmb2p0dmtkNA==) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Hapooh-r89) 
